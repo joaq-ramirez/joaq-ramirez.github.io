@@ -413,7 +413,7 @@ p {
   height: 123px;
   width: 123px;
   border-radius: 50%;
-  background: url(https://raw.githubusercontent.com/bethanyannec11/bethanycalvert.github.io/main/Headshot.JPEG);
+  background: url(https://raw.githubusercontent.com/joaq-ramirez/joaq-ramirez.github.io/main/Images/Headshot.png);
   background-size: cover;
   margin: 0 auto;
 }
@@ -475,7 +475,7 @@ p {
   top: 0;
 }
 .bg-struct.bg-img {
-  background: url(../img/mount.jpg);
+  background: url(../img/dunes.jpg);
   background-position: center;
   background-size: cover;
 }
