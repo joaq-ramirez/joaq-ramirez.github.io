@@ -221,7 +221,14 @@ p {
   background: #211f1f !important;
 }
 .bg-purple {
-  background: #DCC8FA !important;
+  /* background: #DCC8FA !important; */
+  background: #54444A !important;
+}
+.bg-orangish {
+  background: #BA4B22 !important;
+}
+.bg-mutepurp {
+  background: #54444A !important;
 }
 .bg-pink {
   background: #FAC8DD !important;

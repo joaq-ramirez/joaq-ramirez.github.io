@@ -1,9 +1,9 @@
 [
     {
-        "name": "Microcontroller for Servo Actuation",
+        "name": "Microcontroller for Autonomous Drone Flight Modes",
         "url": "https://github.com/bethanyannec11/accel_servo_project",
-        "description": "Programmed PIC18F87K22 microcontroller to read accelerometer data and actuate servos accordingly.                           ",
-        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/PIC18.jpeg?raw=true",
+        "description": "Utilized a PIC18F87K22 microcontroller to program an autonomous take-off, landing, and hover mode for a custom built drone.                           ",
+        "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/finished_build.JPG?raw=true",
         "color": "#4B4B4B",
         "lang": "C",
         "date": "2023-11-01 01:11:32.311970",
@@ -12,7 +12,7 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
-        "name": "Robust Control of Helicopter",
+        "name": "Cubesat Momentum Management Controller",
         "url": "https://github.com/bethanyannec11/helicopter_control",
         "description": "Robust control of 6DOF system including uncertainty and nominal performance analysis and synthesis of H-infinity controller.",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Helicopter.jpeg?raw=true",
@@ -24,7 +24,7 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
-        "name": "Aircraft System Identification",
+        "name": "Sun Sensor Instrument Unscented Kalman Filter",
         "url": "https://github.com/bethanyannec11/UAV_sysID_project",
         "description": "System ID of fixed-wing aircraft longitudinal dynamics.                                                                     ",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/SysID.png?raw=true",
@@ -36,7 +36,7 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
-        "name": "Cooperative Localization",
+        "name": "Cooperative Localization via Kalman Filtering",
         "url": "https://github.com/donceykong/coop_localization.git",
         "description": "Cooperative localization between UAV and UGV systems.                                                                       ",
         "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Screenshot%202024-02-12%20at%206.55.40%20PM.png?raw=true",
@@ -48,10 +48,10 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
-        "name": "Attitude Control of Aircraft",
+        "name": "Mars Orbiter Mission Design and Control",
         "url": "https://github.com/bethanyannec11/Aircraft_Attitude_Control.git",
-        "description": "State feedback and LQR control of fixed-wing aircraft dynamics.                                                             ",
-        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/SysID.png?raw=true",
+        "description": "Thruster-based attitude control development and simulation of a martian science orbiter.                                                              ",
+        "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/mars_orbiter.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
         "date": "2022-03-01 01:11:32.311970",
