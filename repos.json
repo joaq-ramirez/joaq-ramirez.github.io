@@ -39,7 +39,7 @@
         "name": "Orbit Determination Estimation",
         "url": "https://github.com/joaq-ramirez/Cooperative-Satellite-Localization/tree/main",
         "description": "Satellite Orbit Determination via state estimation                                                                       ",
-        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Screenshot%202024-02-12%20at%206.55.40%20PM.png?raw=true",
+        "banner": "https://raw.githubusercontent.com/joaq-ramirez/joaq-ramirez.github.io/main/Images/ukfState.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
         "date": "2022-11-01 00:00:0.000000",
