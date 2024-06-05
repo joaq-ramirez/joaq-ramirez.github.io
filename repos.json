@@ -1,7 +1,7 @@
 [
     {
         "name": "Microcontroller for Autonomous Drone Flight Modes",
-        "url": "https://github.com/bethanyannec11/accel_servo_project",
+        "url": "https://github.com/joaq-ramirez/Autonomous-Drone-PIC18-",
         "description": "Utilized a PIC18F87K22 microcontroller to program an autonomous take-off, landing, and hover mode for a custom built drone.                           ",
         "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/finished_build.JPG?raw=true",
         "color": "#4B4B4B",
@@ -12,10 +12,22 @@
         "generatedOn": "2024-02-01 01:11:32.311970"
     },
     {
+        "name": "Planetary Data System Search API ",
+        "url": "https://github.com/NASA-PDS/search-api-notebook/tree/main",
+        "description": "3 use cases developed to demonstrate functionality of the PDS search API and act as an example for future researchers. Galileo magentometer data visualizaiton with pyWWT, image display using leafmap, basemap creation using ipyleaflet.                                                               ",
+        "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/ipyleaflet.png?raw=true",
+        "color": "#E86900",
+        "lang": "Python",
+        "date": "2023-06-01 01:11:32.311970",
+        "stars": 6,
+        "forks": 6,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
         "name": "Cubesat Momentum Management Controller",
-        "url": "https://github.com/bethanyannec11/helicopter_control",
-        "description": "Robust control of 6DOF system including uncertainty and nominal performance analysis and synthesis of H-infinity controller.",
-        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/Helicopter.jpeg?raw=true",
+        "url": "https://github.com/joaq-ramirez/MAXWELL_MomentumControler",
+        "description": "3DOF momentum management of a 4 reaction wheel system via 3 orthogonal torque rods.",
+        "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/MM_Man.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
         "date": "2023-04-01 01:11:32.311970",
@@ -25,9 +37,9 @@
     },
     {
         "name": "Sun Sensor Instrument Unscented Kalman Filter",
-        "url": "https://github.com/bethanyannec11/UAV_sysID_project",
+        "url": "https://github.com/joaq-ramirez/6044FinalProject",
         "description": "System ID of fixed-wing aircraft longitudinal dynamics.                                                                     ",
-        "banner": "https://github.com/bethanyannec11/bethanycalvert.github.io/blob/main/SysID.png?raw=true",
+        "banner": "https://github.com/joaq-ramirez/joaq-ramirez.github.io/blob/main/Images/photodiode.png?raw=true",
         "color": "#E86900",
         "lang": "Matlab",
         "date": "2023-04-01 01:11:32.311970",
